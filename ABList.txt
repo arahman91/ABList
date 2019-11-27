@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.02
+! Version: 1.03
 ! Title: ABList
-! Last modified: 201911271143
+! Last modified: 201911271146
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/arahman91/ABList
 !
