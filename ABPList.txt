@@ -1,0 +1,4 @@
+reddit.com##.premium-banner
+@@||ff14angler.com^$generichide
+@@||ff14angler.com/*ad$script
+@@||serving-sys.com^$xmlhttprequest,domain=ff14angler.com
