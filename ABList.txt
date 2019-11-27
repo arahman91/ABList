@@ -1,3 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 1.01
+! Title: ABPList
+! Last modified: 201911271138
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/arahman91/ABList
+!
+
 reddit.com##.premium-banner
 @@||ff14angler.com^$generichide
 @@||ff14angler.com/*ad$script
