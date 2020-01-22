@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.04
+! Version: 1.05
 ! Title: ABList
-! Last modified: 201912050640
+! Last modified: 202001212307
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/arahman91/ABList
 !
@@ -12,3 +12,4 @@ reddit.com##.premium-banner
 @@||serving-sys.com^$xmlhttprequest,domain=ff14angler.com
 500px.com##.liked_tab_free_user_overlay__wrapper
 500px.com##.liked_tab_free_user_overlay
+flickr.com##.spaceball
