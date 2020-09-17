@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.05
+! Version: 1.06
 ! Title: ABList
-! Last modified: 2020004210956
+! Last modified: 202009171033
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/arahman91/ABList
 !
@@ -15,3 +15,9 @@ reddit.com##.premium-banner
 flickr.com##.spaceball
 adultnode.com##.panel-body.js_ads-click-campaign
 adultnode.com##.panel-heading
+
+@@||latimes.com^$generichide
+latimes.com##[id^=google_ads_iframe] 
+latimes.com##[id^=trb_ad]
+latimes.com##.trb_gptAd
+||tribdss.com^
