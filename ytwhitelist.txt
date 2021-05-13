@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 1.01
+! Title: YT Whiteist
+! Last modified: 202105131107EDT
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/arahman91/ABList
+!
+
+@@||https://www.youtube.com/watch?v=BpxClcGRw1I
+@@||https://www.youtube.com/watch?v=uW10SL-wKpU
+@@||https://www.youtube.com/watch?v=E_2ZckRiUKY
