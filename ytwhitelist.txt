@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1.01
 ! Title: YT Whiteist
-! Last modified: 202105131107EDT
+! Last modified: 202105131243EST
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/arahman91/ABList
 !
@@ -9,3 +9,87 @@
 @@||https://www.youtube.com/watch?v=BpxClcGRw1I
 @@||https://www.youtube.com/watch?v=uW10SL-wKpU
 @@||https://www.youtube.com/watch?v=E_2ZckRiUKY
+@@||https://www.youtube.com/watch?v=bEBtZ33nwEQ
+@@||https://www.youtube.com/watch?v=OmKtVTTEYFc
+@@||https://www.youtube.com/watch?v=332pOfNxHio
+@@||https://www.youtube.com/watch?v=5lo6oTSQcK4
+@@||https://www.youtube.com/watch?v=ZtQS8fuOFks
+@@||https://www.youtube.com/watch?v=FtBwdEWnhjI
+@@||https://www.youtube.com/watch?v=-5cV_iczIkg
+@@||https://www.youtube.com/watch?v=0hSsfHAcbY0
+@@||https://www.youtube.com/watch?v=J2kS1Q0qP7U
+@@||https://www.youtube.com/watch?v=1eecEGjxTeE
+@@||https://www.youtube.com/watch?v=vXdaU2Zilrw
+@@||https://www.youtube.com/watch?v=LYUo038Mn4M
+@@||https://www.youtube.com/watch?v=niuBr5GounI
+@@||https://www.youtube.com/watch?v=KsEuUpJn3Is
+@@||https://www.youtube.com/watch?v=Ydqk9XYz9a0
+@@||https://www.youtube.com/watch?v=17VCP4zkrsE
+@@||https://www.youtube.com/watch?v=VY_Pd3kYCNk
+@@||https://www.youtube.com/watch?v=hbqnMv2XPCE
+@@||https://www.youtube.com/watch?v=6sP67qyXSag
+@@||https://www.youtube.com/watch?v=FJowOSU_KPY
+@@||https://www.youtube.com/watch?v=KEpvHbw6CLA
+@@||https://www.youtube.com/watch?v=G-Tta23a1Ik
+@@||https://www.youtube.com/watch?v=D0oGa2UAVxw
+@@||https://www.youtube.com/watch?v=TS71wu7jhXY
+@@||https://www.youtube.com/watch?v=_4QHWn6DfOw
+@@||https://www.youtube.com/watch?v=DfakTch4h-U
+@@||https://www.youtube.com/watch?v=RQPxhFxh_HQ
+@@||https://www.youtube.com/watch?v=6iLUzBMC0U0
+@@||https://www.youtube.com/watch?v=Fv2qw17PSDg
+@@||https://www.youtube.com/watch?v=W0y9UbxEs2I
+@@||https://www.youtube.com/watch?v=Jj7x4XzeyEs
+@@||https://www.youtube.com/watch?v=COfTX-lErSg
+@@||https://www.youtube.com/watch?v=q3fxBxu9B1M
+@@||https://www.youtube.com/watch?v=mvv0T2YJiCc
+@@||https://www.youtube.com/watch?v=rRrnb5OFZ3A
+@@||https://www.youtube.com/watch?v=fJ3rpUQFRwY
+@@||https://www.youtube.com/watch?v=8-Lsxs1UCsg
+@@||https://www.youtube.com/watch?v=eOeSMmk90io
+@@||https://www.youtube.com/watch?v=7jDiVEb79hM
+@@||https://www.youtube.com/watch?v=sUV2YSzaq_M
+@@||https://www.youtube.com/watch?v=87fpI6mo-Y4
+@@||https://www.youtube.com/watch?v=KO-xUVIY_Xs
+@@||https://www.youtube.com/watch?v=4eisraV4TzM
+@@||https://www.youtube.com/watch?v=qXcI4ZIWY-c
+@@||https://www.youtube.com/watch?v=nEljC2Yrv98
+@@||https://www.youtube.com/watch?v=2w-XHo_8Flw
+@@||https://www.youtube.com/watch?v=jnSaCIx7rMc
+@@||https://www.youtube.com/watch?v=9Ih70jIDhE4
+@@||https://www.youtube.com/watch?v=8KcDiU70-ik
+@@||https://www.youtube.com/watch?v=JGdMqVEqDQ4
+@@||https://www.youtube.com/watch?v=Xg6c3vVY09A
+@@||https://www.youtube.com/watch?v=js_n6HZQ9rQ
+@@||https://www.youtube.com/watch?v=C5zYLt0-4FM
+@@||https://www.youtube.com/watch?v=5LXhuMas8og
+@@||https://www.youtube.com/watch?v=qW8vFn4JSJc
+@@||https://www.youtube.com/watch?v=eB2hrR4O1pI
+@@||https://www.youtube.com/watch?v=jTP-lDn9dJM
+@@||https://www.youtube.com/watch?v=pI7ssnzAZgk
+@@||https://www.youtube.com/watch?v=mhHC1QtNpRg
+@@||https://www.youtube.com/watch?v=tF1UdrB4YFU
+@@||https://www.youtube.com/watch?v=ZaDTgmVH-cs
+@@||https://www.youtube.com/watch?v=k4ctoX3dAnY
+@@||https://www.youtube.com/watch?v=9IwnfOujhNQ
+@@||https://www.youtube.com/watch?v=QqbroBvHpFA
+@@||https://www.youtube.com/watch?v=YlAYBsKqmPE
+@@||https://www.youtube.com/watch?v=_wL_0-bRDEg
+@@||https://www.youtube.com/watch?v=Y_7goX2o1so
+@@||https://www.youtube.com/watch?v=CQ8O6SV2rRg
+@@||https://www.youtube.com/watch?v=WXqK3Fizt5Y
+@@||https://www.youtube.com/watch?v=ADY0WWkFs_Y
+@@||https://www.youtube.com/watch?v=ahPJHIHIop8
+@@||https://www.youtube.com/watch?v=PabVb_LGDVg
+@@||https://www.youtube.com/watch?v=jwOgAKI4DzY
+@@||https://www.youtube.com/watch?v=oQEbyFL31oM
+@@||https://www.youtube.com/watch?v=-GWmParsUc4
+@@||https://www.youtube.com/watch?v=7t-i72BY7To
+@@||https://www.youtube.com/watch?v=gRUDHYghgqQ
+@@||https://www.youtube.com/watch?v=k81-6h6qlVs
+@@||https://www.youtube.com/watch?v=8KrncYowf7k
+@@||https://www.youtube.com/watch?v=mOnb_2Jzsnw
+@@||https://www.youtube.com/watch?v=Zb-NBf39FzM
+@@||https://www.youtube.com/watch?v=f8pNKRleOys
+@@||https://www.youtube.com/watch?v=aDfb12WT1bs
+@@||https://www.youtube.com/watch?v=eYdtaPD9oBc
