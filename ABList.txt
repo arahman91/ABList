@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1.06
+! Version: 1.07
 ! Title: ABList
 ! Last modified: 202108271444EDT
 ! Expires: 4 days (update frequency)
